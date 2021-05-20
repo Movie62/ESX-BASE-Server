@@ -39,7 +39,7 @@ Now you must Follow the FXServer / txadmin Configuration Steps
 
 Good luck!
 
-
+Version: es_extended 1.1
 
 MADE BY LUKASS#3303
 
